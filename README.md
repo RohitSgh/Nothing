@@ -1,2 +1,1 @@
-# Nothing
-A Repository containing Nothing
+# Power of Emptiness 😎
